@@ -6,7 +6,6 @@
 
 ### Currently
 - Preparing for Summer 2026 internships
-- I'm learning databases (PostgreSQL)
 - Sharpening my problems-solving with DSA & System Design
 
 ---
