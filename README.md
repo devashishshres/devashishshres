@@ -5,8 +5,7 @@
 ***Check out my website [here](https://devashishshrestha.vercel.app/)***
 
 ### Currently
-- Preparing for Summer 2026 internships
-- Sharpening my problems-solving with DSA & System Design
+- Building things that interest me or solve a problem of mine.
 
 ---
 
