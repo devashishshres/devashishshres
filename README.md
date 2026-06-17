@@ -2,7 +2,7 @@
 
 **Compuer Science Junior @ Arizona State University**
 
-***Check out my website [here](https://devashishshrestha.vercel.app/)***
+***Check out my website [here](https://devashish-shrestha.vercel.app/)***
 
 If I come across a cool idea online or think of something neww, I like to build it.
 
